@@ -24,3 +24,4 @@ ai_ml/
 projects/
 screenshots/
 notes/
+```
